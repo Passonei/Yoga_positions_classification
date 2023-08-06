@@ -1,2 +1,2 @@
 # Yoga_positions_classification
-Classification of yoga postures
+Kaggle task classification of yoga postures (https://www.kaggle.com/datasets/tr1gg3rtrash/yoga-posture-dataset).
